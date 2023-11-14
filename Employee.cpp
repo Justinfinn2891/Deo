@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Justin Finn
+ * @date 2023-11-14
+ * @brief .cpp file that holds methods for employee class
+ * 
+ * .cpp file that holds the functions used in main.cpp for the class Employee in employee.h
+ */
+
 #include "Employee.h"
 #include <iostream>
 
