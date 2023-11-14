@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Justin Finn
+ * @date 2023-11-14
+ * @brief .cpp file for supervisor class
+ * 
+ * .cpp file that holds methods for the supervisor class
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 

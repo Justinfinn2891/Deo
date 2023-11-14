@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Justin Finn
+ * @date 2023-11-14
+ * @brief officer file
+ * 
+ * .cpp file used to hold class methods for officer
+ */
+
 #include "Officer.h"
 #include <iostream>
 

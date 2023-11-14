@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Justin Finn
+ * @date 2023-11-14
+ * @brief main.cpp file 
+ * 
+ * main driver that holds the employee class and uses all of its features and methods
+ */
+
 
 #include <iostream>
 #include "Employee.h"
